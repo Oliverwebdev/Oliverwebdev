@@ -8,8 +8,7 @@ I'm Oliver, 28 years young, on an exciting journey to master the art of developm
 ⚡ Fun Fact: I'm passionate about both gaming and programming, finding inspiration in this fusion of hobbies.
 Let's dive into the world of code and craft something amazing together!
 
-Revised:
-Hey there! 👋
+
 I enjoy experimenting with new technologies. While still in school, I'm already an enthusiastic front and backend developer. Whether working in a team or solo, I believe anything is possible.
 
 Let's dive into the world of code and create something amazing together!
